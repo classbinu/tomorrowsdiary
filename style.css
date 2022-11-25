@@ -1,0 +1,17 @@
+main {
+	height: 60vh;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 80px;
+}
+
+button {
+	width: 200px;
+	margin: auto;
+}
+
+.copyright {
+	text-align: center;
+}
